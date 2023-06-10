@@ -1,4 +1,4 @@
-[![MasterHead](https://png.pngtree.com/background/20210714/original/pngtree-data-science-background-banner-template-design-picture-image_1246228.jpg)
+[![MasterHead](https://png.pngtree.com/background/20210714/original/pngtree-data-science-background-banner-template-design-picture-image_1246228.jpg)]
 <h1 align="center">Hi 👋, I'm Ethan Bohm</h1>
 <h3 align="center">An ambitious and detail-oriented Data Scientist From South Florida</h3>
 <img align=“right” alt=“Coding” width = 400 src=“https://intellipaat.com/blog/wp-content/uploads/2015/11/e42cce_756b090fe40548eda9148fd5599980bb_mv2.gif”>
